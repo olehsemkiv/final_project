@@ -700,6 +700,10 @@ a {
     margin-top: 15px;
   }
 
+  .first-section {
+    margin-top: 35px;
+  }
+
   .first-section__heading {
     font-size: 20px;
   }
@@ -726,13 +730,25 @@ a {
     background-image: url(../images/Step\ 3\ tel.png);
   }
 
+  .second-section {
+    margin-top: 35px;
+  }
+
   .second-section__heading {
     font-size: 20px;
     width: 290px;
   }
 
+  .second-section__item {
+    margin-bottom: 10px;
+  }
+
   .flex-box {
     flex-direction: column;
+  }
+
+  .third-section {
+    margin-top: 35px;
   }
 
   .third-section__heading {
@@ -813,6 +829,7 @@ a {
 
   .fourth-section {
     margin-top: 35px;
+    margin-bottom: 40px;
   }
 
   .fourth-section__text {
